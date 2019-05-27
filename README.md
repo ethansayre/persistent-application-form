@@ -46,7 +46,8 @@ Please ensure you have:
         }
     },
   }
-}```
+}
+```  
 
 ## To run:
 Simply type ``node index.js``.  
