@@ -22,7 +22,8 @@ The script uses one key library that stores all appropriate data into the cloud:
 Please ensure you have:  
 * Set up a new Firebase project
 * Enabled Google OAuth sign-in in your new project
-* Changed your database rules to the following: ```{
+* Changed your database rules to the following:
+```{
   "rules": {
     "submissions": {
       	"officer": {
