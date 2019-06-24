@@ -2,6 +2,8 @@
 
 A simple implementation of a cloud-based application form that actively saves your inputted data in a database as you type using React.JS and the Firebase API.
 
+![image](https://user-images.githubusercontent.com/45691485/60056433-8284f580-96a6-11e9-9cb3-86749f80b7f9.png)
+
 ## Getting Started
 
 The following guide will help you get a copy of the project up and running on your local machine for development and testing purposes.  
